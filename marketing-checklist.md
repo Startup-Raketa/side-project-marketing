@@ -1,114 +1,113 @@
 ---
 layout: checklist_page
-title: The Side Project Marketing Checklist
+title: Маркетинг проекта
 permalink: /marketing-checklist/
 ---
+Чек-лист для маркетинга проектов - это всеобъемлющий список маркетинговых приемов и идей, расположенных в хронологическом порядке. Список бесплатный и открытый, поэтому не стесняйтесь [пополнять](/2017/making-a-contribution) [его](https://github.com/karllhughes/side-project-marketing).
 
-The Side Project Marketing Checklist is a comprehensive, chronologically ordered list of marketing tactics and ideas that you can try with your next side project. The list is free and [open source](https://github.com/karllhughes/side-project-marketing) so feel free to [suggest your own tips anytime](/2017/making-a-contribution).
+## До запуска
 
-## Pre-Launch
+### Исследование рыка
 
-### Market Research
+> _Если бы мы знали, что делаем, это не называлось бы исследованием._ - Альберт Эйнштейнт
 
-> _If we knew what we were doing it wouldn’t be called research._ - Albert Einstein
+#### Обзор конкурентов
 
-#### Competitive Landscape
-
-- [ ] Make a list of competitors (see [this list of tools to research competitors](/2017/competition-tools/)).
+- [ ] Составьте список конкурентов (см. [список инструментов для исследования конкурентов](/2017/competition-tools/)).
   
-  ##### Competitor data to collect
-  - [ ] Link to their website.
-  - [ ] "One-liners" and taglines competitors use.
-  - [ ] Pricing and business model.
-  - [ ] Blog/RSS link.
-  - [ ] Social media links.
-  - [ ] Key employees on social media.
+  ##### Что нужно знать о конкурентах
+  - [ ] Ссылка на вебсайт.
+  - [ ] Остроты и слоганы, которые они используют.
+  - [ ] Ценообразование и бизнес-модель.
+  - [ ] Ссылки на блог/RSS.
+  - [ ] Ссылки на эккаунты и страницы в соцсетях.
+  - [ ] Ссылки на эккаунты ключевых сотрудников в соцсетях.
 
-- [ ] Subscribe to RSS feeds of your competitors' blogs.
-- [ ] Follow your competitors and their key employees on social media.
-- [ ] Monitor competitors' websites for changes.
+- [ ] Подпишитесь на ленту RSS блогов.
+- [ ] "Фолловите" их страницы и страницы их ключевых сотрудников в соцсетях.
+- [ ] Регулярно отслеживайте изменения на их сайте.
   
-  ##### Site monitoring tools
+  ##### Инструменты мониторинга сайтов
   - [ ] [Site Alerts](http://sitealerts.com/)
   - [ ] [Versionista](https://versionista.com/)
 
-- [ ] Subscribe to industry newsletters, magazines, trade journals etc.
-- [ ] Use [Google Trends](https://trends.google.com/trends/) to do initial demand and search volume research ([check out this article for specific tips](http://smallbusinessbc.ca/article/how-use-google-trends-perform-market-research/)).
+- [ ] Подпишитесь на ленты новостей вашей индустрии, журналы, профильные блоги и т.д.
+- [ ] Используйте [Google Trends](https://trends.google.com/trends/), чтобы оценить количество запросов по вашей теме ([здесь вы найдете конктертные советы](http://smallbusinessbc.ca/article/how-use-google-trends-perform-market-research/)).
 
-#### Customer Research
+#### Исследование потребителей
 
-- [ ] Find people in your contact list who might be future customers. Get their feedback on your idea.
-- [ ] Attend meetups or conferences for your target market.
-- [ ] Meet another entrepreneur who has a similar or competitive product.
-- [ ] Make a list of your competitors' customers:
+- [ ] Найдите среди ваших знакомых потенциальных покупателей. Спросите у них мнение насчет вашей идеи.
+- [ ] Посещайте встречи или конференции, где мы можете встретить вашу целевую аудиторию.
+- [ ] Познакомьтесь с предпринимателем, у которого похожий или конкурирующий продукт. 
+- [ ] Составьте список потребителей ваших конкурентов:
 
-  ##### Finding competitors' customers
-  - [ ] Check their Twitter followers, mentions.
-  - [ ] Look through their Facebook fans.
-  - [ ] Find people who follow them on Linkedin.
-  - [ ] Check their website. Some companies list customer stories on their websites.
+  ##### Как найти потребителей конкурентов
+  - [ ] Ищите их среди фолловеров на твиттере, любые упоминания в интернете.
+  - [ ] Ищите их среди фанов на фейсбуке.
+  - [ ] Ищите их среди тех, кто фоллвит их на линкедине.
+  - [ ] Посмотрите на их сайтах - некоторые компании размещают там истории своих покупателей.
 
-- [ ] Reach out to your competitors' customers, find out what they like/don't like.
-- [ ] Create an "early access" list for potential future customers.
+- [ ] Вступите в контакт с потребителями своих конкурентов, узнайте, что они любят, а что нет.
+- [ ] Составьте список ранних потребителей, которые, возможно смогут заплатить позже.
 
-### PR Preparations
+### Подготовка к рекламированию
 
-- [ ] Create list of tech, startup, and industry blogs.
-- [ ] Create list of local small business journals (eg: [Crain's Chicago](http://www.chicagobusiness.com/section/Contact-Us&template=mobile)).
-- [ ] Create list of local bloggers and journalists in your industry.
-- [ ] Create a "Media Kit" page ([check out this example](https://www.kickresume.com/mediakit/)).
+- [ ] Составьте список блогов, связанных с вашей индустрией (технических, других стартапов).
+- [ ] Составьте список журналов местных бизнесов (например, [Crain's Chicago](http://www.chicagobusiness.com/section/Contact-Us&template=mobile)).
+- [ ] Составьте список местных блоггеров или журналистов в вашей индустрии.
+- [ ] Создайте страницу с медиакитом для журналистов ([пример здесь](https://www.kickresume.com/mediakit/)).
 
-### Landing Page
+### Лэндинговая страница
 
-- [ ] Come up with a name and domain name.
-- [ ] Write a site tagline and elevator pitch.
-- [ ] Create a logo.
+- [ ] Придумайте название и подберите доменное имя.
+- [ ] Напишите слоган и составьте "питч для лифта" (короткий рассказ о вашем проекте).
+- [ ] Придумайте логотип.
 
-  ##### Logo creation tools
-  - [ ] The Logo Company (use this link for [10% off any order](http://www.kqzyfj.com/click-8424281-10526654))
-  - [ ] [LogoFox](https://logofox.co/form/name) (use coupon code "CHECKLIST" for 20% off your order)
+  ##### Инструменты для создания логотипа
+  - [ ] Компания по созданию логотипаов (используйте эту ссылку для получения [10% скидки на любой заказ](http://www.kqzyfj.com/click-8424281-10526654))
+  - [ ] [LogoFox](https://logofox.co/form/name) (используйте купон "CHECKLIST" для получени 20% скидки на заказ)
   - [ ] [The Noun Project](https://thenounproject.com/)
   - [ ] [FlatIcon](https://www.flaticon.com/)
   - [ ] [Logo Rank](http://brandmark.io/logo-rank/)
   
-- [ ] Set up a landing page (see [this list of landing page tools](https://www.sideprojectchecklist.com/2017/landing-page-tools/)).
-- [ ] Create "About" and "Contact" pages.
-- [ ] Create Pricing page (see [this list of pricing models](https://taprun.com/methods/)):
+- [ ] Создайте лэндинговую страницу(see [список инструментов для создания лэндингов](https://www.sideprojectchecklist.com/2017/landing-page-tools/)).
+- [ ] Создайте страницы "О проекте" and "Контакты".
+- [ ] Создайте страницу с ценами ([список моделей ценообразования](https://taprun.com/methods/)):
 
-  ##### Pricing ideas
-  - [ ] Create a free or trial tier for your paid product.
-  - [ ] Offer a 100% satisfaction/money-back guarantee.
-  - [ ] Make product invite-only to start.
-  - [ ] Offer free/discounted access for early adopters/beta testers.
+  ##### Идеи по ценообразованию
+  - [ ] Придумайте возможность использовать ваш продукт бесплатно или бесплатно в течение некоторого времени (триал).
+  - [ ] Предложите 100% возврат, если покупатель не будет удовлетворен качество продукта.
+  - [ ] Для начала предлагайте продукт только по приглашениям.
+  - [ ] Предлагайте продукт бесплатно или со скидкой для ранних пользователей и бета-тестеров.
 
-- [ ] Add social media follow links to landing page.
-- [ ] Set up analytics to learn about who signs up, bounces, etc.
+- [ ] Добавьте ссылки на эккаунты в соцсетях на страницу лэндинга.
+- [ ] Настройте эккаунт аналитики, чтобы узнать, кто заходит на вашу страницу, как быстро покидает ее и т.д.
 
-  ##### Analytics platforms
+  ##### Платформы для аналитики
   - [ ] [Google Analytics](https://analytics.google.com)
   - [ ] [Mixpanel](https://mixpanel.com/)
   - [ ] [Kiss Metrics](https://www.kissmetrics.com/)
   - [ ] [Webmaster Tools](https://www.google.com/webmasters/tools)
 
-- [ ] Set up on-site messaging to capture leads and engage customers as they land on your site (see our [list of live customer chat tools](/2017/customer-chat-tools))
+- [ ] Настройте инструмент для сообщений (чата), чтобы собирать лиды и поощрять пользователей (смотри [список инструментов для ведения чатов](/2017/customer-chat-tools))
 
-### Email Setup
+### Настройка емейла
 
-*[See this list of email marketing tools](https://www.sideprojectchecklist.com/2017/email-marketing-tools/) for services that make managing email easier.*
+*[Список инструментов для маркетина по электронной почте](https://www.sideprojectchecklist.com/2017/email-marketing-tools/).*
 
-- [ ] Set up email address to send and receive emails.
-- [ ] Set up email list and signup form.
-- [ ] Create a standard email template for your brand.
-- [ ] Create transactional emails for when users sign up/purchase.
+- [ ] Настройте адрес электронной почты для получения и отправки писем.
+- [ ] Создайте список абонентов и форму для подписки.
+- [ ] Создайте шаблон писем для вашего конкретного брэнда.
+- [ ] Настройте систему оповещения, чтобы узнать, когда ваши пользователи подписываются или покупают.
 
-### Blog Setup
+### Настройка блога
 
-> _Content Marketing is all the marketing that’s left._ - Seth Godin
+> _Контент-маркетинг - это все, что мы можем сделать._ - Seth Godin
 
-- [ ] Choose a blogging platform (see this list of [blogging platforms for your side project](/2017/blogging-platforms)).
-- [ ] Research keywords that you'd like your site/blog to rank for.
+- [ ] Выберите платформу для блога (смотри список [платформ для ведения блога](/2017/blogging-platforms)).
+- [ ] Найти ключевые слова, по которым вы хотите, чтобы ваш блог можно было найти.
 
-  ##### Keyword research tools
+  ##### Инструменты поиска ключевых слов
   - [Ahrefs](https://ahrefs.com/)
   - [SpyFu](https://www.spyfu.com/)
   - [SEMrush](https://www.semrush.com/)
@@ -117,17 +116,17 @@ The Side Project Marketing Checklist is a comprehensive, chronologically ordered
   - [KWFinder](https://kwfinder.com/)
   - [Google Keyword Research](https://adwords.google.com/home/tools/keyword-planner/)
 
-- [ ] Create anchor posts or pages for keywords you'd like to rank for.
-- [ ] Have a blog post brainstorming session (see this [big list of blog post ideas](/2017/blog-post-ideas)).
-- [ ] Add email signup form or link to all blog posts.
-- [ ] Add social media follow links to all blog posts.
+- [ ] Создайте "цепляющие" посты или страницы, содержащие ключевые слова.
+- [ ] Устройте мозговой штурм и придумайте, что писать в блог (смотри [большой список идей для блог-постов](/2017/blog-post-ideas)).
+- [ ] Во все посты добавляйте форму подписки или ссылку.
+- [ ] Во все посты добавляйте ссылки на страницы в соцсетях.
 
-### Social Media Setup
+### Настройка соцсетей
 
-- [ ] Search for availability of names on social networks using [KnowEm](http://knowem.com/).
-- [ ] Choose the social media accounts you'll use:
+- [ ] Найдите подходящие доступные названия в соцсетях [KnowEm](http://knowem.com/).
+- [ ] Выберите эккаунты для использования:
 
-  ##### Social media platforms
+  ##### Платформы соцсетей
   - [ ] Facebook
   - [ ] Twitter
   - [ ] Linkedin
@@ -136,65 +135,66 @@ The Side Project Marketing Checklist is a comprehensive, chronologically ordered
   - [ ] Snapchat
   - [ ] YouTube
 
-- [ ] Standardize profile image, background photo, links and call to action across social channels.
-- [ ] Put premium content behind "[pay with a tweet](https://www.paywithatweet.com/)".
+- [ ] Создайте стардартное изображение для профиля, фоновое изображение, ссылки и запостите их во всех ваших эккаунтах.
+- [ ] Создайте "премиум" контент, доступный только за твиты "[заплати твитом](https://www.paywithatweet.com/)".
 
 
-## Post-Launch
+## После запуска
 
-### Customer Outreach
+### Работа с потребителями
 
-> _You should be talking to a small number of users who are seriously interested in what you’re making, not a broad audience who are on the whole indifferent._ - Jessica Livingston, Founding Partner at Y Combinator
+> _Лучше говорить с небольшим количеством пользователей, которые серьезно заинтересованы в том, что вы производите, чем с широкой аудиторией, которая равнодушна к вашему продукту._ - Jessica Livingston, парнтер-сооснователь Y Combinator
 
-- [ ] Send a coupon code to close friends and family members to let them try your product.
-- [ ] Send early access notification to customers identified in research.
-- [ ] Reach out to your social media followers, ask them to try your product.
-- [ ] Cold call ~20 people who might be good customers.
-- [ ] Connect with potential customers on Linkedin, reach out when they accept.
-- [ ] Watch a first time user use your product.
-- [ ] Survey or poll your users for feedback (see our [list of survey tools for lots of great options at any budget](/2017/survey-tools)).
-- [ ] Collect and display testimonials from happy users.
-- [ ] Run an early-stage cold email campaign.
+- [ ] Отправьте близким друзьям и родственникам купон на скидку, чтобы они могли попробовать ваш продукт.
+- [ ] Отправьте сообщение ранним пользователям (тем, кого вы нашли во время исследований до запуска).
+- [ ] Обратитесь к своим фолловерам в соцсетях, попросите их попробовать ваш продукт.
+- [ ] Сделайте около 20 холодных звонков потенциальным покупателям.
+- [ ] Свяжитесь с потенциальными потребителями через линкедин, расскажите им о своем продукте, когда они примут ваше приглашение.
+- [ ] Понаблюдайте за тем, как пользователи используют ваш продукт в первый раз.
+- [ ] Создайте опросы и получите мнение пользователей о вашем продукте(смотрите наш [список инструментов для создания опросов - для кошелька любой толщины](/2017/survey-tools)).
+- [ ] Собирайте и размещайте на сайте благодарности от довольных пользователей.
+- [ ] Запустите кампанию по холодной рассылке.
 
-  ##### An early-stage cold email campaign
-  - [ ] Make a list of 30 prospective early customers' email addresses (Find email addresses with a tool like [Hunter](https://hunter.io/)).
-  - [ ] Send three cold emails per day for ten days. Experiment with messaging, take note of what works.
-  - [ ] Send three follow up emails per day for ten days. Experiment with messaging, take note of what works.
-  - [ ] Scale it up. Find more prospects, set up an automated drip campaign, rinse and repeat every month.
-  - [ ] There's also a [really comprehensive how-to article here](https://originalstitch.com/blog/automating-cold-emails-with-no-coding-your-software-development-project-plan).
+  ##### Кампания по холодной рассылке
+  - [ ] Составьте список из 30 емейлов, принадлежащих 30 перспективным пользователям (Чтобы найти емейлы, воспользуйтесь, например, этим инструментом [Hunter](https://hunter.io/)).
+  - [ ] Отправляйте три холодных емейла каждый день в течение 10 дней. Каждый раз меняйте содержание и форму, отмечайте, что работает, а что нет.
+  - [ ] Также отправляйте по три последующих письма в течение 10 дней, отмечайте, что работает, а что нет.
+  - [ ] Увеличьте количество писем. Лучше всего настройте автоматическую рассылку.
+  - [ ] Больше здесь [множество советов и инструкций](https://originalstitch.com/blog/automating-cold-emails-with-no-coding-your-software-development-project-plan).
 
-### Free Promotional Channels
+### Бесплатные каналы продвижения
 
-> _I don't care how much money you have, free stuff is always a good thing._ - Queen Latifah
+> _Меня не интересует, сколько у вас денег, ведь бесплатное - это всегда хорошо._ - Queen Latifah
 
-- [ ] Post your product on directories and review sites (Matt McCaffrey has compiled [a great list on Github](https://github.com/mmccaff/PlacesToPostYourStartup)).
-- [ ] Write and distribute a Press Release (here's a [comprehensive guide from Wajeez](http://www.wajeez.com/writing-quick-press-releases/)).
-- [ ] Write and distribute an eBook, exchange it for email signup.
-- [ ] Write and distribute a white paper, exchange it for email signup.
-- [ ] Give free access to influential bloggers in the industry.
-- [ ] Build a "best of" page with your best blog posts that you wrote or contributed to other sites (ProBlogger calls this a "[Sneeze Page](https://problogger.com/create-a-sneeze-page-and-propel-readers-deep-within-your-blog/)").
-- [ ] Make sure all blog posts have high quality images.
+- [ ] Разместите информацию о вашем продукте в каталогах и сайтах с ревю (Matt McCaffrey создал [подробный список на гитхабе](https://github.com/mmccaff/PlacesToPostYourStartup)).
+- [ ] Напишите и разошлите пресс-релиз (здесь [полное руководство от Wajeez](http://www.wajeez.com/writing-quick-press-releases/)).
+- [ ] Создайте и разошлите электронную книгу, в обмен на емейл подписки.
+- [ ] Напишите и разошлите официальное письмо, в обмен на емейл подписки.
+- [ ] Предоставьте влиятельным блоггерам бесплатный доступ к продукту.
+- [ ] Создайте страницу с вашими лучшими постами - которые вы написали для себя или других сайтов (ProBlogger называет их "[Sneeze Page](https://problogger.com/create-a-sneeze-page-and-propel-readers-deep-within-your-blog/)").
+- [ ] Убедитесь, что все блогпосты снабжены качественными изображениями.
 
-  ##### Places to get free stock images
+  ##### Где взять бесплатные изображения
   - [ ] [Unsplash](https://unsplash.com/)
   - [ ] [Skuawk](http://skuawk.com/index.html)
   - [ ] [Pexels](https://www.pexels.com/)
   - [ ] [Death to Stock](https://deathtothestockphoto.com/)
+  - [ ] [Pixabay](https://www.pixabay.com/)
 
-- [ ] Create an online course or guide around your product/industry (be sure to [check out our list of course management tools](/2017/course-creation-tools)).
-- [ ] Run a link-building campaign.
+- [ ] Создайте онлайн-курс или руководство по использованию вашего продукта или о каком-то вопросе в вашей области, (не забудьте [проверить список инструментов по созданию курсов](/2017/course-creation-tools)).
+- [ ] Запустите кампанию по увеличению ссылок на ваш сайт.
 
-  ##### Link building strategies
+  ##### Стратегия увеличения ссылочной массы
   - [ ] [Skyscraper campaign](http://backlinko.com/skyscraper-technique)
   - [ ] [Ego baiting](http://pointblankseo.com/egobait-guide)
-  - [ ] Interview/expert Q&A post
-  - [ ] Guest posting
-  - [ ] Broken link building
-  - [ ] Get interviewed on podcasts
-  - [ ] Become a source on [Help a Reporter Out](https://www.helpareporter.com/)
-  - [ ] [More strategies on Backlinko.com](http://backlinko.com/link-building)
+  - [ ] Интервью с экспертом, пост с вопросами и ответами
+  - [ ] Гостевые посты
+  - [ ] Обработка битых ссылок
+  - [ ] Давать интервью в подкасты
+  - [ ] Давать информацию на [Help a Reporter Out](https://www.helpareporter.com/)
+  - [ ] [Больше стратегий на Backlinko.com](http://backlinko.com/link-building)
   
-  ##### Link building tools
+  ##### Сервисы построения ссылочной массы
   - [ ] [Ahrefs](https://ahrefs.com/) - Two-week free trial
   - [ ] [Majestic](https://majestic.com/)
   - [ ] [Rank Signals](https://www.ranksignals.com/) - Free
@@ -202,13 +202,13 @@ The Side Project Marketing Checklist is a comprehensive, chronologically ordered
   - [ ] [Serpstat](https://serpstat.com/) - Free limited account
   
   
-### Paid Promotional Channels
+### Платные каналы продвижения
 
-> _Many people take no care of their money till they come nearly to the end of it, and others do just the same with their time._ - Johann Wolfgang von Goethe
+> _Многие люди не заботятся о деньгах - до тех пор, пока те не кончатся; а другие так же поступают с временем._ - Johann Wolfgang von Goethe
 
-- [ ] Paid social and search advertising 
+- [ ] Платное продвижения в соцсетях и объявлениях поисковых систем
 
-  ##### Social and search advertising platforms
+  ##### Платформы подачи объявлений в поисковых системах и соцсетях
   - [ ] [Google Adwords](https://adwords.google.com/home/)
   - [ ] [Linkedin](https://business.linkedin.com/marketing-solutions/ads)
   - [ ] [Facebook](https://www.facebook.com/business/products/ads)
@@ -221,19 +221,19 @@ The Side Project Marketing Checklist is a comprehensive, chronologically ordered
   - [ ] [Izea](https://izea.com/)
   - [ ] [SponsoredReviews.com](http://www.sponsoredreviews.com/)
 
-- [ ] Commission based advertising
+- [ ] Реклама, основанная на комиссии
 
-  ##### Commission/affiliate advertising platforms
+  ##### Платформы объявлений на оснвое комиссий/программы аффилиаты
   - [ ] [Commission Junction](http://www.cj.com/advertiser)
   - [ ] [Affiliate.com](http://www.affiliate.com/)
   - [ ] [Rakuten Marketing](https://rakutenmarketing.com/affiliate)
   
-- [ ] Sponsor a local meetup or conference for your target customers.
-- [ ] Sponsor podcasts your customers might be listening to.
-- [ ] Sponsor/advertise an industry newsletter (check out [Newsletter.city](https://newsletter.city/)).
-- [ ] Set up a user referral marketing system.
+- [ ] Спонсируйте встречу или конференцию для вашей целевой аудитории.
+- [ ] Спонсируйте подкасты, которые могут быть интересны вашим покупателям.
+- [ ] Спонсируйте/подайте объявление в новостные системы ( [Newsletter.city](https://newsletter.city/)).
+- [ ] Организуйте реферральную систему для пользователей.
 
-  ##### Referral marketing platforms
+  ##### Платформы продвижения на основе реферральной системы
   - [Harry's Prelaunchr (free, open source)](https://github.com/harrystech/prelaunchr)
   - [CleverTap (offers a free tier)](https://clevertap.com/)
   - [Expect Referrals](http://expectreferrals.com/pricing/)
@@ -246,126 +246,125 @@ The Side Project Marketing Checklist is a comprehensive, chronologically ordered
   - [Girafi](https://girafi.co/)
   - [Campaigned](https://campaignedapp.com/)
 
-- [ ] Run an engagement contest with prizes or free products for winners.
-- [ ] Buy email or lead lists.
+- [ ] Запустите конкурс с призами или бесплатными продуктами для победителей.
+- [ ] Купите списки емейлов или лидов.
 
 
-## Recurring
+## Действия на постоянной основе
 
-### Blogging
+### Ведение блогов
 
-> _Blogging is like work, but without coworkers thwarting you at every turn._ - Scott Adams
+> _Ведение блога - это как работа, только без коллег, которые тормозят на каждом повороте._ - Scott Adams
 
-- [ ] Build/update publishing calendar for your blog.
-- [ ] Regularly post blog posts on your blog(s).
-- [ ] Solicit guest posts from early customers and fans of your product.
-- [ ] Repurpose existing blog posts:
+- [ ] Составьте календарь публикаций в блоге.
+- [ ] Регулярно постите в своем блоге.
+- [ ] Просите ваших ранних пользователей и фанов продукта писать гостевые статьи.
+- [ ] Переделайте сущестсвующие посты:
 
-  ##### Repurposing blog posts
-  - [ ] Record/post video of you reading the post on YouTube.
-  - [ ] Turn posts into a podcast.
-  - [ ] Create an infographic based on the post.
-  - [ ] Create a presentation of your post (see the [list of presentation software below](#presentation-software)).
+  ##### Переделка/адаптации постов
+  - [ ] Запишите и опубликуйте видео, где вы читаете свой пост.
+  - [ ] Превратите пост в подкаст.
+  - [ ] На основе поста создайте инфографику.
+  - [ ] Создайте презентацию поста (см. [список софта для создания презентаций](#presentation-software)).
 
-- [ ] Promote your blog content:
+- [ ] Продвигайте контент блога:
   
-  ##### Blog promotion techniques
-  - [ ] Send post to your email list.
-  - [ ] Promote on your social media.
-  - [ ] Email friends and relatives, ask them to share if relevant.
-  - [ ] Send to other bloggers for feedback, ask to share if they like it.
-  - [ ] Add your latest blog post or landing page to your email signature.
+  ##### Техника продвижения блога
+  - [ ] Отправляйте посты подписчикам.
+  - [ ] Продвигайте в соцсетях.
+  - [ ] Отправьте по емейлу друзьям и родственникам, просите их расшарить, если понравилось.
+  - [ ] Отправьте другим блоггерам, попросите дать отзывы о постах и расшарить.
+  - [ ] Добавляйте новые блогпосты и даже лэндинговую страницу в подпись к рассылке.
 
-### Email
+### Работа с электронной почтой
 
-> _Email is the Jason Bourne of online: somebody’s always trying to kill it. It can’t be done._ - Unknown
+> _Емейл - это что-то вроде Джеймса Борна: кто-то все время пытается его уничтожить. Но это невозможно._ - Неизвестный автор
 
-- [ ] Send a regular email newsletter with blog posts, use cases, customer stories, etc.
-- [ ] Promote email list on social media.
-- [ ] Send 20 cold emails per week to connect with early customers and get direct feedback.
-- [ ] Send new users a personal email introducing yourself.
+- [ ] Отправляйте регулярные письма с блогпостами, кейсами использования, историями покупателей и т.д.
+- [ ] Продвигайте подписку в соцсетях.
+- [ ] Отправляйте 20 "холодных" писем каждую неделю своим ранним пользователей с целью получения отзывов на продукт.
+- [ ] Отправляйте новым пользователям персональные письма с рассказом о себе и своем продукте.
 
-### Social Media
+### Соцсети
 
-> _We have technology, finally, that for the first time in human history allows people to really maintain rich connections with much larger numbers of people._ – Pierre Omidyar
+> _Наконец у нас появилась технология, которая впервые в истории человечества позволяет людям поддерживать настоящие связи с огромным числом людей._ – Pierre Omidyar
 
-- [ ] Schedule regular social media content (try these [social media tools to help automate the social media process](/2017/social-media-tools)).
+- [ ] Составьте расписание публикации медиаконтента (см. [сервисы для автоматизации работы с соцсетями](/2017/social-media-tools)).
 
-  ##### Content ideas
-  - [ ] Show what happening "behind the scenes" (eg: pictures of your workspace, in-development features, etc.).
-  - [ ] Blog posts from your blog (or partners' blogs).
-  - [ ] Special offers or discounts.
-  - [ ] Relevant news, advice, or blogs.
-  - [ ] Funny or inspiring quotes.
-  - [ ] Polls or questions for your followers.
-  - [ ] Suggested books.
-  - [ ] Useful tools or websites.
+  ##### Что можно публиковать
+  - [ ] Рассказы о том, что происходит "за кулисами" (например, фотографии рабочих мест, рассказывайте о функциональности, которая находится в разработке и т.д.).
+  - [ ] Посты своих и партнерских блогов.
+  - [ ] Информация о спецпредложениях и скидках.
+  - [ ] Новтости, советы, статьи по теме.
+  - [ ] Вдохновляющие или юморные цитаты
+  - [ ] Опросы/вопросы.
+  - [ ] Обзоры книг.
+  - [ ] Полезные инструменты или вебсайты.
 
-- [ ] Join Facebook and Linkedin groups where your product might be beneficial.
-- [ ] Send exclusive offers to LinkedIn/Facebook Group owners.
-- [ ] Join Twitter chats related to your industry/product.
-- [ ] Give early users discounts for taking pics with your product.
+- [ ] Присоединяйте к группа фейсбука и линкедина, члены которых могут быть заинтересованы в продукте.
+- [ ] Отправляйте эксклюзивные предложения владельцам групп фейсбука и линкедина.
+- [ ] Участвуйте в чатах твиттера, связанных с вашей индустрией.
+- [ ] Предлагайте скидки тем пользователям, которые разместят фотографии с вашим продуктом.
 
-### Public Relations
+### Связи с общественностью
 
-> _The art of publicity is a black art; but it has come to stay, and every year adds to its potency._ – Thomas Paine
+> _Искусство рекламы - это по сути черная магия; однако весьма укоренившаяся и с каждым годом становящаяся все сильнее._ – Thomas Paine
 
-- [ ] Ask bloggers with list articles to add your site to their content.
-- [ ] Reach out to small business journals, reporters, bloggers. Inform and ask for coverage.
-- [ ] Find professors and students with `.edu` sites to link to your content (good for SEO).
-- [ ] Find reviews or lists of similar products. Ask to be added or leave a comment about your product.
-- [ ] Guest post on other blogs.
+- [ ] Обратитесь к блоггерам, которые ведут списки сервисов и продуктов, добавить ваш в свои обзоры.
+- [ ] Свяжитесь с журналами, репортеами и блоггерами, которые пишут о малом бизнесе. Расскажите о своем продукте и попросите написать о нем. 
+- [ ] Ищите профессоров и студентов с сайтами в домене ".edu" добавить ссылки на ваш контент (полезно для СЕО).
+- [ ] Найдите списки похожих продуктов и их обзоры. Постарайтесь добавить в эти списки свой продукт или хотя бы оставьте комментарий о нем. 
+- [ ] Делайте гостевые блогпосты.
 
-  ##### Guest posting
-  - [ ] Build a list of blogs that are a good fit for your product and accept guest posts. Save their contact form/information.
-  - [ ] Write a few posts on your own blog first (to use as a demonstration).
-  - [ ] Create a list of "pitches," blog post ideas with a title and one paragraph summary that might grab bloggers.
-  - [ ] Pitch the blogs one idea each. See what they respond to.
-  - [ ] Help promote your posts via social media, email lists, etc.
-  - [ ] Reach back out in a month and try another pitch. Try to become a "regular"
+  ##### Публикация гостевых постов
+  - [ ] Составьте список блогов, которые подходят к вашему продукту и публикуют гостевые посты. Включите туда контактную информацию.
+  - [ ] Сначала опубликуйте несколько постов в своем блоге (чтобы использовать их в качестве демонстрации).
+  - [ ] Создать список "питчей" - короткими постами с заголовком и абзацем текста, которые могут заинтересовать блоггеров. 
+  - [ ] Отправляйте блогам по одному такому питчу, следите за реакцией.
+  - [ ] Каждый месяц отправляйте новый питч.
 
-- [ ] Leave non-spammy comments on blog posts related to your industry or product.
-- [ ] Join and participate in forums related to your product or industry.
+- [ ] Оставляйте комментарии по теме в блогах, относящихся к вашей индустрии.
+- [ ] Регистрируйтесь и участвуйте в обсуждениях на форумах, связанных с вашей индустрией. 
 
-### External Sites
+### Внешние сайты
 
-- [ ] Answer relevant questions on Q&A community sites (check back regularly)
+- [ ] Отвечайте на вопросы по вашей теме и регулярно проверяйте, что вам отвечают.
   
-  ##### Q&A Communities
+  ##### Сообщества вопросов и ответов
   - [ ] [Stack Overflow](https://stackoverflow.com/)
   - [ ] [Quora](https://www.quora.com/)
-  - [ ] Industry or geographically specific forums
-  - [ ] [Product Hunt](https://www.producthunt.com/) For more information on how to launch here, [read this](https://blog.producthunt.com/how-to-launch-on-product-hunt-7c1843e06399).
+  - [ ] Специализированные форумы по индустрии, локальные форумы
+  - [ ] [Product Hunt](https://www.producthunt.com/) Как использовать Product Hunt, [читайте здесь](https://blog.producthunt.com/how-to-launch-on-product-hunt-7c1843e06399).
 
-- [ ] Leave comments on Slideshare presentations.
-- [ ] Review industry-related books on Amazon, Goodreads.
-- [ ] Register to be notified of relevant discussions on Reddit and Hacker News with [F5Bot](https://f5bot.com).
-- [ ] Create/publish presentations relevant to your industry.
+- [ ] Комментируйте презентации на Slideshare.
+- [ ] Делайте обзоры книг, связанных с вашей индустрией, на Amazon, Goodreads.
+- [ ] Зарегистрируйтесь и участвуйте в тематических дискуссиях на Reddit и Hacker News с помощью [F5Bot](https://f5bot.com).
+- [ ] Создайте и публикуйте презентации по темам вашей индустрии.
 
-  ##### Presentation Software
+  ##### ПО для презентации
   - [ ] [Google Slides](https://docs.google.com/presentation/)
   - [ ] [Prezi](https://prezi.com/)
   - [ ] [Slides.com](https://slides.com/)
   - [ ] [Slideshare](https://www.slideshare.net/)
 
-## Optimizations
+## Оптимизация
 
-- [ ] Run a customer poll (can also generate content for your blog or social media channels).
-- [ ] Create another side project to promote your product ([read more](https://medium.com/swlh/side-product-marketing-is-the-new-king-a75c4ed0c0c5)).
-- [ ] A/B test your landing/payment pages (check out [Optimizely](https://www.optimizely.com/)).
-- [ ] A/B test email newsletters and promotions.
-- [ ] Implement [Twitter cards](https://dev.twitter.com/cards/overview) on your blog posts.
-- [ ] Implement [rich snippets in Google search results](https://developers.google.com/search/docs/guides/mark-up-content).
-- [ ] Analyze user signup flow ([check out the teardowns here](http://www.useronboard.com/)).
-- [ ] Test your website on multiple platforms, make sure speed is good.
-- [ ] Use [Website Grader](https://website.grader.com/) to pinpoint website improvements.
-- [ ] Create and track weekly traffic and growth goals.
-- [ ] Time social media posts and email newsletters to when your audience is most likely to respond.
-- [ ] Make sure each page on your site has a clear call-to-action.
-- [ ] Audit and improve your conversion rate (see [this checklist for detailed steps you can take](http://www.conversionchecklist.org/))
-- [ ] Set up automatic analytics reports to be emailed to you each week.
-- [ ] Experiment with various signup form locations, colors, and sizes.
-- [ ] Add "Exit Intent" popup to your blog/site.
-- [ ] Create an FAQs page.
-- [ ] Experiment with various proactive on-site messages to promote engagement and conversions.
-- [ ] Verify your website's tags are correct with [Google Tag Assistant](https://get.google.com/tagassistant/).
+- [ ] Запустите опросы пользователей (с их помощью можано также создавать конент для блогов и соцсетей).
+- [ ] Создайте побочные проекты, используйте их для продвижения основного продукта ([здесь больше](https://medium.com/swlh/side-product-marketing-is-the-new-king-a75c4ed0c0c5)).
+- [ ] Делайте A/B тесты лэндинговой и страниц с оплатой (см. здесь [Optimizely](https://www.optimizely.com/)).
+- [ ] Делайте A/B тесты новостных писем и акций по продвижению продукта.
+- [ ] Создайте [Twitter карточки](https://dev.twitter.com/cards/overview) для ваших блогпостов.
+- [ ] Создайте [сниппеты с дополнительной информацией в поисковом результате Гугла](https://developers.google.com/search/docs/guides/mark-up-content).
+- [ ] Проанализируйте, как пользователи используют ваш продукт ([см. здесь](http://www.useronboard.com/)).
+- [ ] Тестируйте сайт на разных платформах, убедитесь, что у него отличная скорость загрузки[Google PageSpeed (https://developers.google.com/speed/pagespeed/)].
+- [ ] Используйте этот сервис [Website Grader](https://website.grader.com/) чтобы улучшить сайт.
+- [ ] Создайте цели трафика и роста и каждую неделю отслеживайте их.
+- [ ] Публикуйтесь в соцсетях и отправляйте емейлы точно в то время, когда ваша ЦА наиболее активна и сможет отреагировать. 
+- [ ] Убедитесь, что на каждой странице сайта четко обозначен призыв к действию. 
+- [ ] Отслеживайте и улучшайте конверсию (см. [список детальных шагов](http://www.conversionchecklist.org/))
+- [ ] Наладьте еженедельную отправку автоматических отчетов с аналитикой сайта.
+- [ ] Экспериментируйте с формой регистрации - меняйте расположение, цвета, размеры и т.д.
+- [ ] Добавьте попапы, которые предлагают некие бонусы, когда пользователь покидает сайт (весьма сомнительно!)
+- [ ] Создайте страницу с часто задаваемыми вопросами.
+- [ ] Публикуйте на сайте сообщения для повышения вовлечения пользователей и увеличения конверсии.
+- [ ] Проверьте, работают ли скрипты на сайте (типа аналитики) с помощью [Google Tag Assistant](https://get.google.com/tagassistant/).
